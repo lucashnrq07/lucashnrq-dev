@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning Automation and Machine Learning with Python<br></p>
+<p align="left">✨ Coding since 2025<br>📚 I'm currently learning Automation and Machine Learning with Python<br></p>
 
 ###
 
