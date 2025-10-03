@@ -9,7 +9,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=terraform" height="60" alt="terraform logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo"  />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="github actions logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
